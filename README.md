@@ -22,7 +22,7 @@
 
 Clone the project
 
-```bash
+```shell
   git clone https://github.com/vishnukallam/Employee_Database
 ```
 
@@ -34,22 +34,18 @@ Go to the project directory
 
 Install dependencies
 
-```bash
+```shell
   npm install
 ```
 
 Start the server
 
-```bash
+```shell
   npm run start
 ```
-📖 Usage
-To start the application, run:
 
-Bash
 
-npm start  # or python main.py
-Once the server is running, you can access the API or Interface at http://localhost:3000.
+
 
 🤝 Contributing
 Fork the Project.
