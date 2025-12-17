@@ -43,6 +43,7 @@ Start the server
 **Client:** React, HTML, CSS
 
 **Server:** Node, Express
+**Database:** MongoDB
 
 
 
