@@ -1,15 +1,12 @@
 # Employee_Database
 ## An Employee Database Management System built using backend and database technologies to manage employee information with CRUD functionality and optimized data storage.
 
-## A robust backend application designed to manage employee records, department structures, and payroll information efficiently. This project uses a relational database to maintain data integrity and provides an interface for performing CRUD (Create, Read, Update, Delete) operations.
-
-# 🚀 Getting Started
-## Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+### A robust backend application designed to manage employee records, department structures, and payroll information efficiently. This project uses a relational database to maintain data integrity and provides an interface for performing CRUD (Create, Read, Update, Delete) operations.
 
 # Prerequisites
-## Before you begin, ensure you have the following installed:
+### Before you begin, ensure you have the following installed:
 
-# _Git: Download Git_
+### _Git: Download Git_
 
 ### Database Engine: MongoDB
 
