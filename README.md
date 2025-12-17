@@ -38,12 +38,15 @@ Start the server
   npm run start
 ```
 
+
 ## Tech Stack
 
 **Client:** React, HTML, CSS
 
 **Server:** Node, Express
+
 **Database:** MongoDB
+
 
 
 
