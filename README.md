@@ -15,10 +15,7 @@
 
 ### Programming Environment: Node.js
 
-# 📥 Installation: Step-by-Step
-## Follow these steps to clone and set up the project locally.
-
-## Run Locally
+# 📥 Run Locally
 
 Clone the project
 
@@ -44,6 +41,11 @@ Start the server
   npm run start
 ```
 
+## Tech Stack
+
+**Client:** React, HTML, CSS
+
+**Server:** Node, Express
 
 
 
