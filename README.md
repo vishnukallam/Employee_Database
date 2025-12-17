@@ -18,53 +18,31 @@
 # 📥 Installation: Step-by-Step
 ## Follow these steps to clone and set up the project locally.
 
-## 1. Clone the Repository
-### Open your terminal or command prompt and run the following command to download the project files:
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=npm+install+cool-package;🚀+Launching+app...;Done!)](https://git.io/typing-svg)
-git clone https://github.com/your-username/employee-database.git
+## Run Locally
 
-2. Navigate to the Project Directory
-Move into the folder created by the clone command:
+Clone the project
 
-Bash
+```bash
+  git clone https://github.com/vishnukallam/Employee_Database
+```
 
-cd employee-database
-3. Install Dependencies
-Install the necessary libraries and packages required to run the application:
+Go to the project directory
 
-If using Node.js: npm install
+```shell
+  cd my-project
+```
 
-If using Python: pip install -r requirements.txt
+Install dependencies
 
-4. Configure the Database
-Create a new database in your SQL environment (e.g., CREATE DATABASE employee_db;).
+```bash
+  npm install
+```
 
-Locate the .env.example file in the root directory.
+Start the server
 
-Rename it to .env and update the credentials:
-
-Code snippet
-
-DB_HOST=localhost
-DB_USER=your_username
-DB_PASSWORD=your_password
-DB_NAME=employee_db
-5. Run Database Migrations
-Initialize the tables and schema:
-
-Bash
-
-# Example for a typical CLI tool
-npm run migrate  # or python manage.py migrate
-🛠 Features
-Employee Management: Add, update, and remove employee profiles.
-
-Department Tracking: Assign employees to specific departments and roles.
-
-Salary History: Track raises and salary changes over time.
-
-Search & Filter: Find employees by ID, name, or department.
-
+```bash
+  npm run start
+```
 📖 Usage
 To start the application, run:
 
