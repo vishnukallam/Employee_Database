@@ -6,14 +6,12 @@
 ### Before you begin, ensure you have the following installed:
 
 
-  Git: [Download Git](https://git-scm.com/install/windows)
+  **Git:** [Download Git](https://git-scm.com/install/windows)
 
-```shell
-  Database Engine: MongoDB
-```
-```shell
-  Programming Environment: Node.js
-```
+
+  **Database Engine:** [MongoDB](https://www.mongodb.com/try/download/community)
+
+  **Programming Environment:** [VS Code](https://code.visualstudio.com/download), [Node.js](https://nodejs.org/en/download)
 # 📥 Run Locally
 
 Clone the project
