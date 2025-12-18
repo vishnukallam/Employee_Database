@@ -5,12 +5,15 @@
 # Prerequisites
 ### Before you begin, ensure you have the following installed:
 
-### _Git: Download Git_
-
-### Database Engine: MongoDB
-
-### Programming Environment: Node.js
-
+```shell
+  Git: Download Git
+```
+```shell
+  Database Engine: MongoDB
+```
+```shell
+  Programming Environment: Node.js
+```
 # 📥 Run Locally
 
 Clone the project
