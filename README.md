@@ -5,9 +5,9 @@
 # Prerequisites
 ### Before you begin, ensure you have the following installed:
 
-```shell
-  Git: Download Git
-```
+
+  Git: [Download Git](https://git-scm.com/install/windows)
+
 ```shell
   Database Engine: MongoDB
 ```
